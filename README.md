@@ -48,7 +48,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    - Nama pengguna (username)
    - Email
    - Kata sandi (password)
-   - Nomor telepon (untuk 2FA)
+   - Aplikasi Autentikasi (untuk 2FA)
 
    Pastikan Anda telah mengatur semua detail yang diperlukan untuk proses pendaftaran dan 2FA.
 
