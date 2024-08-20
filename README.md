@@ -57,7 +57,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 Jalankan skrip untuk membuat akun Instagram baru dan mengaktifkan 2FA:
 
 ```bash
-python create_account.py
+python Run.py
 ```
 
 Ikuti petunjuk yang muncul di layar untuk menyelesaikan proses pendaftaran dan konfigurasi 2FA. Skrip akan meminta Anda untuk memasukkan kode 2FA yang dikirimkan melalui SMS atau aplikasi autentikator, jika diperlukan.
