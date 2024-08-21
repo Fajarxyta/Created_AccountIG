@@ -7,6 +7,6 @@ if __name__ == '__main__':
         try:os.mkdir('Data')
         except:pass
         try:
-                Instagram.security()
+                Instagram.main()
         except requests.exceptions.ConnectionError:
                 print('Connection Close')
