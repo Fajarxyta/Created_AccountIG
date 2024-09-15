@@ -25,7 +25,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 1. **Instal pustaka Python yang diperlukan:**
 
    ```bash
-   pkg update && upgrade
+   pkg update && pkg upgrade
    pkg install python3
    pkg install tur-repo -y
    pip3.11 install pip --upgrade
