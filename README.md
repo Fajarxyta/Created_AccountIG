@@ -32,12 +32,12 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 2. **Instal pustaka Python yang diperlukan:**
 
    ```bash
-   pkg update
-   pkg upgrade
+   pkg update && upgrade
+   pkg install tur-repo -y 
    pkg install python3
    pkg install git
-   pip install bs4
-   pip instaall requests
+   pip install pynacl
+   pip install pycryptodomex
    pip install faker
    
    ```
