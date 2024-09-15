@@ -35,7 +35,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    pkg install python3
    pkg install tur-repo -y
    pip3.11 install pip --upgrade
-   pip3.11 install rich pytz bs4 pycryptodomex pynacl faker
+   pip3.11 install -r requirements.txt
    ```
 
 3. **Konfigurasi**
