@@ -37,17 +37,6 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    pip3.11 install pip --upgrade
    pip3.11 install -r requirements.txt
    ```
-
-3. **Konfigurasi**
-
-   Buka file konfigurasi (config.json atau file serupa) dan sesuaikan parameter sesuai kebutuhan Anda, seperti:
-   - Nama pengguna (username)
-   - Email
-   - Kata sandi (password)
-   - Aplikasi Autentikasi (untuk 2FA)
-
-   Pastikan Anda telah mengatur semua detail yang diperlukan untuk proses pendaftaran dan 2FA.
-
 ## Penggunaan
 
 Jalankan skrip untuk membuat akun Instagram baru dan mengaktifkan 2FA:
