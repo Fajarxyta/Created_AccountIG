@@ -29,21 +29,21 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    pkg install python3
    pkg install tur-repo -y
    pip3.11 install pip --upgrade
-   pip3.11 install -r requirements.txt
    ```
 
  2. **Clone repositori ini:**
 
     ```bash
     rm -rf Created_AccountIG
-    git clone https://github.com/Fajarxyta/Created_AccountIG.git
+    git clone https://github.com/Fajarxyta/Created_AccountIG
+    cd Created_AccountIG
+    pip3.11 install -r requirements.txt
     ```
 ## Penggunaan
 
 Jalankan skrip untuk membuat akun Instagram baru dan mengaktifkan 2FA:
 
 ```bash
-cd Created_AccountIG
 python Run.py
 ```
 
