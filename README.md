@@ -22,13 +22,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 
 ## Instalasi
 
-1. **Clone repositori ini:**
-
-   ```bash
-   git clone https://github.com/Fajarxyta/Created_AccountIG.git
-   ```
-
-2. **Instal pustaka Python yang diperlukan:**
+1. **Instal pustaka Python yang diperlukan:**
 
    ```bash
    pkg update && upgrade
@@ -37,6 +31,13 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    pip3.11 install pip --upgrade
    pip3.11 install -r requirements.txt
    ```
+
+ 2. **Clone repositori ini:**
+
+    ```bash
+    rm -rf Created_AccountIG
+    git clone https://github.com/Fajarxyta/Created_AccountIG.git
+    ```
 ## Penggunaan
 
 Jalankan skrip untuk membuat akun Instagram baru dan mengaktifkan 2FA:
