@@ -1,0 +1,6 @@
+rich==13.4.2
+pytz==2023.3
+beautifulsoup4==4.12.2
+pycryptodomex==3.17
+pynacl==1.5.0
+faker==19.6.0
