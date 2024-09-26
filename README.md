@@ -27,8 +27,6 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
    ```bash
    pkg update && pkg upgrade
    pkg install python3
-   pkg install tur-repo -y
-   pip3.11 install pip --upgrade
    ```
 
  2. **Clone repositori ini:**
@@ -44,7 +42,7 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 Jalankan skrip untuk membuat akun Instagram baru dan mengaktifkan 2FA:
 
 ```bash
-python Run.py
+python Main.py
 ```
 
 Ikuti petunjuk yang muncul di layar untuk menyelesaikan proses pendaftaran dan konfigurasi 2FA. Skrip akan meminta Anda untuk memasukkan kode 2FA yang dikirimkan melalui SMS atau aplikasi autentikator, jika diperlukan.
